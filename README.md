@@ -6,7 +6,7 @@ them** — from a live web product to routing models and accessibility studies �
 currently applying AI methods (RAG, agent workflows) to enterprise digital-transformation
 research.
 
-[jg2582@cornell.edu](mailto:jg2582@cornell.edu) · [LinkedIn](https://www.linkedin.com/in/sid-junxiang-gong) · [Project index with reports](https://github.com/Sidbaobao/My_Projects)
+[jg2582@cornell.edu](mailto:jg2582@cornell.edu) · [LinkedIn](https://www.linkedin.com/in/sid-junxiang-gong) · [Résumé (PDF)](resume/Junxiang_Gong_resume.pdf) · [Project index with reports](https://github.com/Sidbaobao/My_Projects)
 
 ## Projects
 
