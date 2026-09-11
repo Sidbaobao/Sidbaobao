@@ -6,20 +6,20 @@ them** — from a live web product to routing models and accessibility studies �
 currently applying AI methods (RAG, agent workflows) to enterprise digital-transformation
 research.
 
-[jg2582@cornell.edu](mailto:jg2582@cornell.edu) · [LinkedIn](https://www.linkedin.com/in/sid-junxiang-gong) · [Résumé (PDF)](resume/Junxiang_Gong_resume.pdf) · [Project index with reports](https://github.com/Sidbaobao/My_Projects)
+[jg2582@cornell.edu](mailto:jg2582@cornell.edu) · [LinkedIn](https://www.linkedin.com/in/sid-junxiang-gong) · [Résumé (PDF)](resume/Junxiang_Gong_resume.pdf) · [Project index with reports](https://github.com/Sidbaobao/Portfolio)
 
 ## Projects
 
 | Project | What it is | Stack |
 |---|---|---|
 | [**Stay or Return**](https://github.com/Sidbaobao/stay-or-return-decision-support) · [live site](https://stayorreturn.com) | Explainable decision tool for Chinese international students weighing a U.S. or China career: 24 questions across 6 dimensions, a transparent weighted-gap model, sensitivity analysis, private sharing by URL fragment | Next.js 15 · TypeScript · Vercel |
-| [**low-altitude-vrpd**](https://github.com/Sidbaobao/low-altitude-vrpd) | Truck-drone collaborative delivery for the low-altitude economy: MILP (Gurobi) with a genetic-algorithm warm start, tested reproduction of a 50-customer Shenzhen case study; the mixed fleet is the most efficient option in the case study and in 10/10 random instances | Python · Gurobi · pytest · CI |
-| [**manhattan-mobility-access**](https://github.com/Sidbaobao/manhattan-mobility-access) | Walking-time access to bus, subway and bike share for 303 Manhattan census tracts and 3,221 service nodes; K-means typologies and OLS linking poverty share to longer walks | OSMnx · GeoPandas · scikit-learn · statsmodels |
-| [**shenzhen-multimodal-accessibility**](https://github.com/Sidbaobao/shenzhen-multimodal-accessibility) | Door-to-door travel times to hospitals, schools and parks by walking, cycling, driving and metro for 77 neighbourhoods; 70 % face a metro-vs-car gap above 15 min | ArcGIS Pro Network Analyst · pandas · matplotlib |
-| [**hainan-rainforest-storymap**](https://github.com/Sidbaobao/hainan-rainforest-storymap) · [read it](https://sidbaobao.github.io/hainan-rainforest-storymap/) | First Prize, 2024 Esri China GIS Development Competition (team of 4): a five-chapter story map of Hainan Tropical Rainforest National Park; I built the web maps and 3-D scenes and the Landsat-based ecological-index assessment, 1987 vs 2007 | GeoScene Pro / Online · Google Earth Engine · Python |
+| [**Truck–drone collaborative delivery**](https://github.com/Sidbaobao/low-altitude-vrpd) | Truck-drone collaborative delivery for the low-altitude economy: MILP (Gurobi) with a genetic-algorithm warm start, tested reproduction of a 50-customer Shenzhen case study; the mixed fleet is the most efficient option in the case study and in 10/10 random instances | Python · Gurobi · pytest · CI |
+| [**Mobility access and equity in Manhattan**](https://github.com/Sidbaobao/manhattan-mobility-access) | Walking-time access to bus, subway and bike share for 303 Manhattan census tracts and 3,221 service nodes; K-means typologies and OLS linking poverty share to longer walks | OSMnx · GeoPandas · scikit-learn · statsmodels |
+| [**Multi-modal accessibility in Shenzhen**](https://github.com/Sidbaobao/shenzhen-multimodal-accessibility) | Door-to-door travel times to hospitals, schools and parks by walking, cycling, driving and metro for 77 neighbourhoods; 70 % face a metro-vs-car gap above 15 min for hospital access (56 % parks, 29 % schools) | ArcGIS Pro Network Analyst · pandas · matplotlib |
+| [**Hainan rainforest story map**](https://github.com/Sidbaobao/hainan-rainforest-storymap) · [read it](https://sidbaobao.github.io/hainan-rainforest-storymap/) | First Prize, 2024 Esri China GIS Development Competition (team of 4): a five-chapter story map of Hainan Tropical Rainforest National Park; I built the web maps and 3-D scenes and the Landsat-based ecological-index assessment, 1987 vs 2007 | GeoScene Pro / Online · Google Earth Engine · Python |
 
 Planning and research reports (TOD plan, historic-district design guidelines, 15-minute city,
-community research) are collected in [My_Projects/reports](https://github.com/Sidbaobao/My_Projects/tree/main/reports).
+community research) are collected in [Portfolio/reports](https://github.com/Sidbaobao/Portfolio/tree/main/reports).
 
 ## Experience
 
@@ -34,7 +34,7 @@ Technology (CAICT), Shenzhen · May 2026 – present
 
 **Research Assistant, Prof. John I. Carruthers** — Cornell University · Oct 2025 – present
 - Build research databases from BEA, BLS, FRED, Census and GIS sources (3,080 U.S. counties × 99
-  indicators; a 31-province Chinese panel with 2,790 observations × 45 variables).
+  indicators; a five-year panel of 31 Chinese provinces with 45 variables).
 - Location quotients, instrumental-variable and panel models, gravity models in Stata / Python / QGIS.
 - Built a 67-sector 2022 U.S. input–output model and traced a construction-demand shock through
   inter-industry linkages (output multiplier ≈ 1.76).
@@ -86,4 +86,3 @@ Engineering and Technology, 86, 66–73 (CEAT 2024).
 2027 graduate roles in AI application products, enterprise solutions, product strategy, business
 analysis and technology consulting.
 
-<sub>Libraries I lean on for transportation data: [transbigdata](https://github.com/ni1o1/transbigdata) · [transdim](https://github.com/xinychen/transdim) · [TrafficIndex](https://github.com/didi/TrafficIndex)</sub>
